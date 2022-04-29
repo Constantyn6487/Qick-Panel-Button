@@ -1,4 +1,4 @@
-# Fast-Panel-Buttom
+# Fast-Panel-Button
 **Addon blender**
 * ***[Download latest version](https://github.com/Constantyn6487/Fast-Panel-Buttom/raw/main/Fast_Panel_Button.zip)***
 ![Header](Image.png)
