@@ -1,6 +1,6 @@
 # Fast-Panel-Buttom
 **Addon blender**
-* ***[Download latest version](https://github.com/Constantyn6487/Fast-Panel-Button/raw/main/Fast_Panel_Buttom.zip)***
+* ***[Download latest version](https://github.com/Constantyn6487/Fast-Panel-Buttom/raw/main/Fast_Panel_Button.zip)***
 ![Header](Image.png)
 
 **Adds acces panel to buttons. Giving speeds job on modificators** :
