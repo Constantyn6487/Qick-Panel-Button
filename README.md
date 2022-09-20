@@ -14,3 +14,4 @@
   - added buttons in edit mode:
   - application of rotation, scaling
   - moved to the edit tab
+* don't forget to delete the old one before installing the new one.
