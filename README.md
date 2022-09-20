@@ -11,6 +11,6 @@
 * Button Adds BEVEL(Weight Amount=0.005,Shape=1:00), Subdivision(v12), and Shade Smooth.
 * Button Shade Smooth and Shade Flat operations in editable mode.
 * Update 1.6.4
-  - added buttons:
+  - added buttons in edit mode:
   - application of rotation, scaling
   - moved to the edit tab
