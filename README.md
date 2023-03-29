@@ -10,6 +10,8 @@
 * Select similar vertices, edges or faces by property types: Sharpness and set bevel weight 1.00
 * Button Adds BEVEL(Weight Amount=0.005,Shape=1:00), Subdivision(v12), and Shade Smooth.
 * Button Shade Smooth and Shade Flat operations in editable mode.
+* Update 1.6.5
+  - added buttons proportional editing on 3 axes: X, Y, Z.  In editing mode.
 * Update 1.6.4
   - added buttons in edit mode:
   - application of rotation, scaling
