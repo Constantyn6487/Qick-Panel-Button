@@ -1,6 +1,6 @@
 # Qick_Panel_Button
 **Addon blender**
-* ***[Download latest version](https://github.com/Constantyn6487/Qick-Panel-Button/raw/main/Qick_Panel_Button165.zip)***
+* ***[Download latest version](https://github.com/Constantyn6487/Qick-Panel-Button/raw/main/Fast_Panel_Button166.zip)***
 ![Header](Image.png)
 
 **Adds acces panel to buttons. Giving speeds job on modificators** :
