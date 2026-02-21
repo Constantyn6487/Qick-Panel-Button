@@ -1,4 +1,4 @@
-# Button_quick_panels
+# FastPanelsButton
 **Blender Addon**
 * ***latest version of Fast_Panel_Button166.zip)***
 ![Title](Image.png)
