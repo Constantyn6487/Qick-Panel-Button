@@ -1,19 +1,19 @@
-# Кнопка_быстрой_панели
-**Блендер Аддон**
-* ***последнюю версия Fast_Panel_Button166.zip)***
-![Заголовок](Изображение.png)
+# Button_quick_panels
+**Blender Addon**
+* ***latest version of Fast_Panel_Button166.zip)***
+![Title](Image.png)
 
-**Добавляет панель доступа к кнопкам. Предоставление работы по скорости модификаторам** :
+**Adds button access panel. Providing speed work to modifiers** :
 
-* вес скоса 1,00-0,50 и 0,00
-* сгиб 1,00 и 0,00
-* Выберите похожие вершины, ребра или грани по типам свойств: Резкость и установите вес скоса 1,00
-* Кнопка для BEVEL (вес=0,005, форма=1:00), Subdivision(v12) и Shade Smooth.
-* Операции «Сглаживание» и «Плоское» затемнение кнопок в редактируемом режиме.
-* Обновление 1.6.5
-  - добавлены кнопки пропорционального редактирования по 3 осям: X, Y, Z. В режиме редактирования.
-* Обновление 1.6.4
-  - добавлены кнопки в режиме редактирования:
-  - применение вращения, масштабирования
-  - перемещено на вкладку редактирования
-* не забудьте удалить старый перед установкой нового.
+* bevel weight 1.00-0.50 and 0.00
+* fold 1.00 and 0.00
+* Select similar vertices, edges, or faces by property type: Sharpness and set the bevel weight to 1.00
+* Button for BEVEL (weight=0.005, shape=1:00), Subdivision(v12) and Shade Smooth.
+* Operations «Smoothing» and «Flat» dimming buttons in editable mode.
+* Update 1.6.5
+- added 3-axis proportional editing buttons: X, Y, Z. In edit mode.
+* Update 1.6.4
+Added buttons in edit mode:
+- application of rotation, scaling
+- moved to the edit tab
+* remember to remove the old one before installing the new one.
